@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">HK Weather</string>
+    <string name="tempC">\u2103</string>
+</resources>
